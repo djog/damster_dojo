@@ -1,9 +1,10 @@
 # Damster Dojo
 
-![DJOG logo](plaatjes/Djog.png)
+![DJOG logo](plaatjes/djog.png)
 
-<img src="plaatjes/mbots.jpg" alt="mBots" width="300" height="300">
-<img src="plaatjes/arduino.jpg" alt="Arduino" width="300" height="300">
+mBot|Arduino
+----|-------
+<img src="plaatjes/mbots.jpg" alt="mBots" width="300" height="300">|<img src="plaatjes/arduino.jpg" alt="Arduino" width="300" height="300">
 
 Dit is de website van de Damster Dojo. De Damster Dojo is een 
 programmeer- en digitale electronicacursus in Appingedam, gegeven vanuit
