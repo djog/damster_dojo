@@ -14,7 +14,7 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
 ### Over de cursus
 
- * Wanneer: maandagavond, 13 mei t/m ?24 juni, zie [lesplanning](lesplanning.md)
+ * Wanneer: maandagavond, 13 mei t/m ?24 juni (lesplanning staat hieronder)
  * Hoe laat: 
 
 Wat         | Tijd
