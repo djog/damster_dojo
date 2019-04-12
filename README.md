@@ -8,7 +8,7 @@ mBot|Arduino
 
 Dit is de website van de Damster Dojo. De Damster Dojo is een 
 programmeer- en digitale electronicacursus in Appingedam, gegeven vanuit
-[https://www.djog.nl/](De Jonge Onderzoeker)
+[De Jonge Onderzoekers Groningen](https://www.djog.nl).
 
 De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
