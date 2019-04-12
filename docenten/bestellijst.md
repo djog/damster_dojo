@@ -1,13 +1,13 @@
 # Bestellijst
 
-## Algemeen
+## Algemeen (5x mBot + 10x Arduino)
 
 Omschrijving    |  x|Link
 ----------------|---|-----------
 Assortimentsdoos|  4|[Okaphone](https://www.okaphone.com/artikel.asp?id=467196)
 Batterijen AA   | 40|Supermarkt
 
-## mBot
+## mBot (5x)
 
 Omschrijving    |  x|Link
 ----------------|---|-----------
@@ -15,7 +15,7 @@ mBot v1.1       |  5|[Okaphone](https://www.okaphone.com/artikel.asp?id=484976)
 7 segment       |  5|[Conrad](https://www.conrad.nl/p/makeblock-uitbreidingsmodule-me-7-segment-display-1549437)
 Uitbreiding     |  5|[Conrad](https://www.conrad.nl/p/makeblock-uitbreidingsmodule-1549061)
 
-## Arduino
+## Arduino (10x)
 
 Omschrijving    |  x|Link
 ----------------|---|-----------
