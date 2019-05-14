@@ -42,3 +42,20 @@ LCD display     |  2|[Okaphone](https://www.okaphone.com/artikel.asp?id=467475)
 Joystick        | 10|[Okaphone](https://www.okaphone.com/artikel.asp?id=471060)
 Pin header M    |  2|[Okaphone](https://www.okaphone.com/artikel.asp?id=409896)
 Batterijhouder  |  5|[Okaphone](https://www.okaphone.com/artikel.asp?id=435596)
+
+
+
+## Arduino (10x) bijbestelling
+
+Omschrijving    |  x|Link
+----------------|---|-----------
+Arduino Uno     | 10|[Okaphone](https://www.okaphone.com/artikel.asp?id=477022)
+USB 2 kabel A-B | 10|[Okaphone](https://www.okaphone.com/artikel.asp?id=451342)
+Breadboard      | 10|[Okaphone](https://www.okaphone.com/artikel.asp?id=485313)
+Draadbruggen MM | 10|[Okaphone](https://www.okaphone.com/artikel.asp?id=485732)
+Weerstanden 1k  |100|[Okaphone](https://www.okaphone.com/artikel.asp?id=468069)
+Weerstanden 10k | 50|[Okaphone](https://www.okaphone.com/artikel.asp?id=468050)
+LED rood        | 25|[Okaphone](https://www.okaphone.com/artikel.asp?id=422565)
+LED geel        | 25|[Okaphone](https://www.okaphone.com/artikel.asp?id=422563)
+LED groen       | 25|[Okaphone](https://www.okaphone.com/artikel.asp?id=453127)
+LED RGB (CC)    | 25|[Okaphone](https://www.okaphone.com/artikel.asp?id=467470)
