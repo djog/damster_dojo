@@ -52,7 +52,6 @@ Omschrijving    |  x|Link
 Arduino Uno     | 10|[Okaphone](https://www.okaphone.com/artikel.asp?id=477022)
 USB 2 kabel A-B | 10|[Okaphone](https://www.okaphone.com/artikel.asp?id=451342)
 Breadboard      | 10|[Okaphone](https://www.okaphone.com/artikel.asp?id=485313)
-Draadbruggen MM | 10|[Okaphone](https://www.okaphone.com/artikel.asp?id=485732)
 Weerstanden 1k  |100|[Okaphone](https://www.okaphone.com/artikel.asp?id=468069)
 Weerstanden 10k | 50|[Okaphone](https://www.okaphone.com/artikel.asp?id=468050)
 LED rood        | 25|[Okaphone](https://www.okaphone.com/artikel.asp?id=422565)
