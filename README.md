@@ -4,6 +4,13 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 ---|---
 `master`|[![Build Status](https://travis-ci.org/richelbilderbeek/damster_dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/damster_dojo)
 
+## Agenda
+
+ * Maandag 1 juli: laatste les voor de zomervakantie, leerlingen geven les
+ * Vanaf dan: zomerrooster, elke vrijdag ben je welkom van 18:00-22:00 
+   op het pand van De Jonge Onderzoekers in Groningen, Dirk Huizingastraat 13
+ * Maandag 26 augustus: eerste les nieuwe seizoen
+
 ![DJOG logo](plaatjes/djog.png)
 
 mBot|Arduino
@@ -50,7 +57,7 @@ Heb je nog een vraag? Kijk [bij de veelgestelde vragen](faq.md)
 -|10 juni|Pinksteren, geen les
 5|17 juni|-
 6|24 juni|-
-7|1 juli|Laatste les
+7|1 juli|Laatste les, leerlingen geven les
 
 ## Links 
 
