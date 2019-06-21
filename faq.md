@@ -4,11 +4,37 @@ Dit zijn de veelgestelde vragen.
 
 ## Hoe ziet de cursus eruit?
 
-Dat weten we nog niet.
+Als je bij ons binnenkomt, kun je kiezen wat je gaat doen.
+Als je acht of negen jaar oud bent en er is plek bij mBot,
+dan mag je mBot gaan doen als je wilt. In de andere gevallen, 
+mag je meteen naar Arduino!
 
-Wel weten we hoe dezelfde cursus in Groningen eruit zag in het begin:
+Hierna zoeken we een leerling voor je die je
+helpt beginnen. Dat is leuk, want dan leer je meteen iemand kennen!
+Er zijn ongeveer vijf mBot leerlingen (van acht t/m tien jaar oud)
+en vijftien Arduino leerlingen (van acht t/m vijftien jaar oud).
 
-![](plaatjes/20140808.jpg)
+Je wordt door onze leerling meteen aan het werk gezet! 
+Je werkt dan aan de lessen in onze lesboekjes. 
+Voor vragen zijn de andere leerlingen er om je te helpen.
+Komen jullie er niet uit, dan zijn er altijd nog volwassenen die alles
+weten :-)
+
+Elke les heeft een eindopdracht en daarbij mag niemand je helpen. Heb
+je deze opdracht gedaan, dan zal een volwassene je werk bekijken en
+een handtekening op je leskaart zetten. Bij een volle leskaart krijg je
+een certificaat.
+
+Eens per twee maanden is er een Mafkeesles. Dit is een les, waarin
+we buiten iets van programmeren uitbeelden/spelen/lopen/rennen. Maf
+en leuk!
+
+Twee keer per jaar zijn er eindpresentaties. Hier mag je je ouders, 
+familie, vriendjes en vriendinnetjes uitnodigen, zodat ze kunnen zien
+wat jij hebt geleerd en gedaan. Na een eindpresentaties zijn er
+anonieme evaluaties, waarbij jouw mening over de cursus wordt gevraagd,
+door een persoon die jou niet kent. Hierdoor kunnen we de cursus steeds
+beter maken!
 
 ## Ik ben jonger dan acht jaar oud, ben ik welkom?
 
@@ -18,24 +44,30 @@ Maar je mag het altijd komen proberen.
 
 ## Ik ben ouder dan 18 jaar oud, ben ik welkom?
 
-Ja. Nieuwe volwassenen zullen door de jongeren opgeleid worden (van 18:15-20:00). 
-Dit is het meest leerzaam voor de *jongeren*. 
-Voel je dus vooral welkom. 
-Volwassenen zal daarna vriendelijk gevraagd worden om minstens een van de volgende dingen te gaan doen:
+Ja. Het is erg leerzaam voor je jongeren om les te geven aan volwassenen.
+Daarom zijn volwassenen altijd welkom! Uiteraard zullen de jongeren
+altijd voorrang hebben (ook omdat ze anders gaan rondrennen :-) ).
 
-  1. gave dingen te bouwen om de leerlingen te inspireren 
-  2. assisteren bij de lessen door de leerlingen met hun vragen te helpen
-  3. lessen te geven
+## Ik heb geen laptop/mBot/Arduino/electronica. Is dat erg?
 
-Hierbij geldt de regel is dat de kinderen altijd voor gaan. 
-
-## Ik heb geen [...]. Is dat erg?
-
-Nee, wij hebben wel reserve laptops, Arduino's, electronica, etc.
+Nee, wij hebben wel reserve laptops, mBots, Arduino's, electronica, etc.
 
 We zien wel dat het handiger voor de leerlingen is een eigen laptop te hebben. 
 Ook merken we dat leerlingen na zes lessen hun ouders gaan vragen 
 om een Arduino om thuis mee te werken. 
+
+## Mijn kind heeft [een bepaald gedrag]. Is dat erg?
+
+Nee, uw kind is welkom!
+
+Leren leren en je leren gedragen zijn belangrijke onderdelen van de cursus. 
+De begeleiders zullen op zoek gaan naar manieren hoe we het beste uit
+uw kind kunnen halen. Meestal (ongeveer in 98% van de gevallen) lukt dit, 
+ook al kost dit soms enkele lessen. Slechts een enkele keer lukt dit niet.
+
+Mochten de begeleiders buitensporig veel moeite hebben met de begeleiding
+van uw kind, dan zullen ze u eerst opzoeken voor uw ideeen/adviezen/tips
+en zullen we met u een plan afspreken.
 
 ## Mag ik games maken?
 
@@ -64,7 +96,15 @@ en heeft de lerarenopleiding aan de universiteit afgerond.
 Zijn werk is te zien op [zijn website met meer dan 3900 pagina's](http://richelbilderbeek.nl) 
 en [meer dan 900 GitHub repositories](https://github.com/richelbilderbeek?tab=repositories).
 
-Richel is eindverantwoordelijk voor de cursus. 
+Richel geeft les in Arduino en is eindverantwoordelijk voor de cursus. 
+
+### Erik
+
+Erik heeft leren programmeren op de universiteit. Aan Erik kun je merken,
+dat als je een programmeertaal goed kunt, kun je gemakkelijker andere kunt 
+leren: hij helpt met mBot, maar ook met Lego Mindstorms en Processing. 
+
+Bij ons geeft Erik les in mBot.
 
 ## Hoe kan het dat de cursus zo goedkoop is?
 
@@ -89,8 +129,9 @@ De missie van De Jonge Onderzoekers is:
 > met als doel kinderen op een uitdagende en creatieve manier 
 > met techniek en wetenschap in aanraking te laten komen'. 
 
-De missie van Damster Dojo heeft veel overlap hiermee. 
+De missie van de Damster Dojo heeft veel overlap hiermee. 
 We vinden het belangrijk dat de kinderen iets leren, 
 uitgedaagd worden en hun creativiteit gebruiken om iets te maken. 
 Leerlingen krijgen kort uitleg, werken in het begin een boek door, 
-maar worden ook gestimuleerd elkaar te helpen, zelf les te geven en mee te beslissen.
+maar worden ook gestimuleerd elkaar te helpen, zelf 
+les te geven en mee te beslissen.
