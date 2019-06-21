@@ -6,6 +6,6 @@ Hierbij vragen we een onbekende om met de leerlingen de cursus anoniem te beoord
 
 ## 2019-07-01
 
- * [Protocol](20190701Protocol.odt)
+ * Protocol [odt](20190701Protocol.odt) [pdf](20190701Protocol.pdf)
  * [Vragenblad](20190701Vragenblad.png)
- * [Gesproken vragen](20190701GesprokenVragen.odt)
+ * Gesproken vragen: [odt](20190701GesprokenVragen.odt) [pdf](20190701GesprokenVragen.pdf)
