@@ -6,7 +6,7 @@ Hierbij vragen we een onbekende om met de leerlingen de cursus anoniem te beoord
 
 ## 2019-07-01
 
- * Protocol [odt](20190701Protocol.odt) [pdf](20190701Protocol.pdf)
- * [Vragenblad](20190701Vragenblad.png)
- * Gesproken vragen: [odt](20190701GesprokenVragen.odt) [pdf](20190701GesprokenVragen.pdf)
+ * Protocol [odt](20190701/Protocol.odt) [pdf](20190701/Protocol.pdf)
+ * Vragenblad: [png](20190701/Vragenblad.png) [pdf](20190701/Vragenblad.pdf)
+ * Gesproken vragen: [odt](20190701/GesprokenVragen.odt) [pdf](20190701/GesprokenVragen.pdf)
  * Team: Carleen, Emma, Annie, vriend Annie
