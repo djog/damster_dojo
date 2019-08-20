@@ -6,11 +6,7 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 
 ## Agenda
 
- * Maandag 1 juli: laatste les voor de zomervakantie, [leerlingen geven les](publiciteit/20190701_leerlingles/README.md)
- * Vanaf dan: zomerrooster, elke vrijdag ben je welkom van 18:00-22:00 
-   op het pand van De Jonge Onderzoekers in Groningen, Dirk Huizingastraat 13
- * Maandag 22 juli: [Pi Benaderingsdag](https://github.com/richelbilderbeek/pi_approximation_day)
- * Maandag 26 augustus: eerste les nieuwe seizoen
+ * Maandag 2 september: eerste les nieuwe seizoen
 
 ![DJOG logo](plaatjes/djog.png)
 
