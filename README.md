@@ -17,6 +17,7 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
  * Maandag 2 september: eerste les nieuwe seizoen
  * Maandag 7 okt:Codeweek 
  * Maandag 14 okt:Codeweek 
+ * Zaterdag 7 dec: [Innovatiefestival Midden-Groningen](http://www.mifmig.nl/over/) 10:00-17:00 @ Het Kielzog (Bibliotheek), Hoogezand
  * Maandag 9 dec: Eindpresentaties
 
 ### Over de cursus
