@@ -88,7 +88,7 @@ te laten zien en te laten testen.
 
 ### [Richel](https://github.com/richelbilderbeek)
 
-![Richel](plaatjes/richel.png)
+![Richel](../plaatjes/richel.png)
 
 Richel programmeert sinds zijn achtste. Hij is de meest ervaren en belezen 
 programmeur, vooral in C++ en R. Richel is vooral geinteresseerd in onderwijs 

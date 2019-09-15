@@ -43,11 +43,11 @@ Einde les   | 20:00
    electronica (als je dat hebt), USB stick (als je je mee wilt nemen)
  * Wanneer instromen: altijd!
 
-Heb je nog een vraag? Kijk [bij de veelgestelde vragen](veelgestelde_vragen.md)
+Heb je nog een vraag? Kijk [bij de veelgestelde vragen](doc/veelgestelde_vragen.md)
 
-## [Lesplanning](docs/lesplanning.md)
+## [Lesplanning](doc/lesplanning.md)
 
-Zie [lesplanning](docs/lesplanning.md)
+Zie [lesplanning](doc/lesplanning.md)
 
 ## Dingen
 
