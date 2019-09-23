@@ -98,13 +98,9 @@ en [meer dan 900 GitHub repositories](https://github.com/richelbilderbeek?tab=re
 
 Richel geeft les in Arduino en is eindverantwoordelijk voor de cursus. 
 
-### Erik
+### Raymond
 
-Erik heeft leren programmeren op de universiteit. Aan Erik kun je merken,
-dat als je een programmeertaal goed kunt, kun je gemakkelijker andere kunt 
-leren: hij helpt met mBot, maar ook met Lego Mindstorms en Processing. 
-
-Bij ons geeft Erik les in mBot.
+Raymond geeft les in mBot.
 
 ## Hoe kan het dat de cursus zo goedkoop is?
 
@@ -121,6 +117,54 @@ de evaluaties.
    de evaluaties worden enkel gedaan met de leerlingen die blijven. Dit zijn
    wellicht de tevreden leerlingen
 
+## Wat doet een vrijwilliger?
+
+De definitie van wat een vrijwilliger doet, is de volgende:
+
+Een vrijwilliger is iemand die **altijd** zijn/haar eigen leren aan de kant zet
+voor een andere leerling.
+
+Dit is iets anders dan even een ander helpen :-).
+
+## Kan ik vrijwilliger worden?
+
+Leuk!
+
+Deze vraag is gesplits op leeftijd:
+
+ * Kan ik minderjarige vrijwilliger worden?
+ * Kan ik volwassene vrijwilliger worden?
+
+Zie hieronder :-)
+
+## Kan ik minderjarige vrijwilliger worden?
+
+Ja, maar we hebben liever dat je leerling blijft :-).
+
+Leerlingen zijn welkom om vrijwilliger te worden, als ze weten wat dit
+betekend (zie hierboven). 
+In de regel proberen we de cursus zo in te richten, dat alle
+minderjarigen leerlingen kunnen zijn. Als er echter teveel leerlingen zijn,
+dan kan aan je gevraagd worden of je -tijdelijk- de volwassenen kunt helpen.  
+
+## Kan ik volwassene vrijwilliger worden?
+
+Ja!
+
+## Wat wordt van een vrijwilliger verwacht?
+
+Een vrijwilliger ...
+
+ * is er voor de minderjarigen/leerlingen
+ * krijgt de verantwoordelijk over een groepje leerlingen
+ * is er voor iedere leerling binnen zijn/haar groepje
+ * geeft coachend les
+ * heeft een lerende houding
+ * helpt opbouwen en opruimen
+ * heeft een DJO T-shirt aan
+ * krijgt de vrijheid om te experimenteren met lesgeven
+ * bespreekt de les na met andere vrijwilligers
+
 ## Wat is de missie van de cursus?
 
 De missie van De Jonge Onderzoekers is: 
@@ -129,9 +173,12 @@ De missie van De Jonge Onderzoekers is:
 > met als doel kinderen op een uitdagende en creatieve manier 
 > met techniek en wetenschap in aanraking te laten komen'. 
 
-De missie van de Damster Dojo heeft veel overlap hiermee. 
-We vinden het belangrijk dat de kinderen iets leren, 
-uitgedaagd worden en hun creativiteit gebruiken om iets te maken. 
-Leerlingen krijgen kort uitleg, werken in het begin een boek door, 
-maar worden ook gestimuleerd elkaar te helpen, zelf 
-les te geven en mee te beslissen.
+De missie van de Damster Dojo heeft veel overlap hiermee, echter
+aldaar is techniek een *middel*, in plaats van een doel.
+
+Doelen van de Damster Dojo zijn:
+
+  1. Leren leren: lerende houding, concentratie, focus, pauze nemen, 
+     fouten maken moet
+  2. Leren omgaan met jezelf: doorzetten, omgaan met frustratie
+
