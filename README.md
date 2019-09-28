@@ -18,7 +18,8 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
  * Zaterdag 5 oktober: Zpannend Zernike, van 12:00-17:00 in DJOG, Dirk Huizingstraat 13, Groningen
  * Maandag 7 oktober: Codeweek 
  * Maandag 14 oktober: Codeweek 
- * Woensdag 27 november: opening DJO Eemsdelta
+ * Maandag 11 nov: [Beverwedstrijd](https://www.beverwedstrijd.nl)
+ * Woensdag 27 november: 15:00-17:15: opening DJO Eemsdelta
  * Zaterdag 7 december: [Innovatiefestival Midden-Groningen](http://www.mifmig.nl/over/) 10:00-17:00 @ Het Kielzog (Bibliotheek), Hoogezand
  * Maandag 9 december: Eindpresentaties
 
