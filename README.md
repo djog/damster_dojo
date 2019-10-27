@@ -15,7 +15,7 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 ## Agenda
 
  * Maandag 11 november: Geen les, wegens Sint Maarten
- * Woensdag 27 november: 15:00-17:15: opening DJO Eemsdelta
+ * Woensdag 27 november: 15:00-17:15: opening DJO Eemsdelta, meer detail [hier](![](publiciteit/20191127opening.pdf))
 
 ![](publiciteit/20191127opening.jpg)
 
