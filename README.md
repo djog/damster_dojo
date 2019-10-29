@@ -15,12 +15,12 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 ## Agenda
 
  * Maandag 11 november: Geen les, wegens Sint Maarten
- * Woensdag 27 november: 15:00-17:15: opening DJO Eemsdelta, meer detail [hier](publiciteit/20191127opening.pdf)
+ * Woensdag 27 november: 15:00-17:15: opening DJO Eemsdelta @ waar wij zitten, meer detail [hier](publiciteit/20191127opening.pdf)
 
 ![](publiciteit/20191127opening.jpg)
 
- * Zaterdag 7 december: [Innovatiefestival Midden-Groningen](http://www.mifmig.nl/over/) 10:00-17:00 @ Het Kielzog (Bibliotheek), Hoogezand
- * Maandag 9 december: Eindpresentaties
+ * Zaterdag 7 december: Regiofinale FIRST LEGO League @ waar wij zitten
+ * Maandag 9 december: Eindpresentaties @ waar wij zitten
 
 ### Over de cursus
 
