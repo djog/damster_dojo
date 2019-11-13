@@ -25,7 +25,7 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
     * ongeveer 18:45: presentaties!
     * ongeveer 19:15: pauze
     * ongeveer 19:30: evaluatie met leerlingen en ouders
-    * ongeveer 20:00: klaar
+    * ongeveer 20:00: klaar 
 
 ### Over de cursus
 
