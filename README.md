@@ -19,7 +19,7 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
 ![](publiciteit/20191127opening.jpg)
 
- * Zaterdag 7 december: Regiofinale FIRST LEGO League @ waar wij zitten
+ * Zaterdag 7 december: Regiofinale FIRST LEGO League. Wij geven les van 10:00-15:00 @ waar wij zitten
  * Maandag 9 december: Eindpresentaties @ waar wij zitten
     * 18:00 (deur open), 18:15 (binnen) tot ongeveer 18:45: voorbereiden
     * ongeveer 18:45: presentaties!
