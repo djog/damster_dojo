@@ -14,11 +14,6 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
 ## Agenda
 
- * Maandag 11 november: Geen les, wegens Sint Maarten
- * Woensdag 27 november: 15:00-17:15: opening DJO Eemsdelta @ waar wij zitten, meer detail [hier](publiciteit/20191127opening.pdf)
-
-![](publiciteit/20191127opening.jpg)
-
  * Zaterdag 7 december: Regiofinale FIRST LEGO League. Wij geven les van 10:00-15:00 @ waar wij zitten
  * Maandag 9 december: Eindpresentaties @ waar wij zitten
     * 18:00 (deur open), 18:15 (binnen) tot ongeveer 18:45: voorbereiden
