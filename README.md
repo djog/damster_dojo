@@ -14,13 +14,7 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
 ## Agenda
 
- * Zaterdag 7 december: Regiofinale FIRST LEGO League. Wij geven les van 10:00-15:00 @ waar wij zitten
- * Maandag 9 december: Eindpresentaties @ waar wij zitten
-    * 18:00 (deur open), 18:15 (binnen) tot ongeveer 18:45: voorbereiden
-    * ongeveer 18:45: presentaties!
-    * ongeveer 19:15: pauze
-    * ongeveer 19:30: evaluatie met leerlingen en ouders
-    * ongeveer 20:00: klaar 
+ * Maandag 6 januari: Eerste les
 
 ### Over de cursus
 
