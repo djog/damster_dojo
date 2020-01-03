@@ -22,11 +22,11 @@ Les|Datum |Omschrijving
  14|13 apr|
  15|20 apr|
  --|27 apr|Geen les, wegens meivakantie
- 16|04 mei|
+ 16|04 mei|?Geen les, wegens dodenherdenking
  17|11 mei|
  18|18 mei|
  18|25 mei|
- 19|01 jun|
+ 19|01 jun|?Geen les, wegens 2e Pinksterdag
  20|08 jun|
  21|15 jun|Oefenpresentaties
  22|22 jun|Eindpresentaties
