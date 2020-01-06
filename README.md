@@ -15,6 +15,12 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 ## Agenda
 
  * Maandag 6 januari: Eerste les
+ * Maandag 17 feb: Geen les, wegens voorjaarsvakantie
+ * Maandag 27 apr: Geen les, wegens meivakantie
+ * Maandag 04 mei: Geen les, wegens dodenherdenking
+ * Maandag 01 jun: Geen les, wegens 2e Pinksterdag
+ * Maandag 22 jun: Eindpresentaties + evaluaties
+ * Maandag 29 jun: Laatste les voor de zomervakantie
 
 ### Over de cursus
 
