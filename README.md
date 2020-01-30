@@ -16,7 +16,7 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
  * Maandag 6 januari: Eerste les
  * Maandag 17 feb: Geen les, wegens voorjaarsvakantie
- * ?Zaterdag 29 februari: Open Dag DJO Groningen, 10:00-16:00
+ * Zaterdag 29 februari: Open Dag DJO Groningen, 10:00-16:00
  * Maandag 9 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:
  * Zaterdag 14 maart: DigiDoeDag, 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen
  * Maandag 27 apr: Geen les, wegens meivakantie
