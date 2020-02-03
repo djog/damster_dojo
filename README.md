@@ -62,9 +62,12 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 ---|---
 `master`|[![Build Status](https://travis-ci.org/richelbilderbeek/damster_dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/damster_dojo)
 
-## Links 
+## Links
 
+ * [DJOG GitLab](http://51.15.53.32)
+ * [DJOG Discord](https://discord.gg/XYBXfE)
  * [mBot lessen](https://github.com/richelbilderbeek/mbot_voor_jonge_tieners/tree/master/hoofdstukken)
  * [mBot boeken](https://github.com/richelbilderbeek/mbot_voor_jonge_tieners/tree/master/boeken)
  * [Arduino lessen](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners/tree/master/hoofdstukken)
  * [Arduino boeken](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners/tree/master/boeken)
+
