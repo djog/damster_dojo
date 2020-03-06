@@ -14,11 +14,7 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
 ## Agenda
 
- * Maandag 6 januari: Eerste les
- * Maandag 17 feb: Geen les, wegens voorjaarsvakantie
- * Zaterdag 29 februari: Open Dag DJO Groningen, 10:00-16:00
- * Maandag 9 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:
- * Zaterdag 14 maart: DigiDoeDag, 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen
+ * Zaterdag 14 maart: [DoeDigiDag](https://noordendigitaal.nl/activiteiten/kom-langs-bij-de-jonge-onderzoekers-en-leer-zelf-programmeren), 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen
  * Maandag 27 apr: Geen les, wegens meivakantie
  * Maandag 04 mei: Geen les, wegens dodenherdenking
  * Maandag 01 jun: Geen les, wegens 2e Pinksterdag
@@ -70,4 +66,5 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
  * [mBot boeken](https://github.com/richelbilderbeek/mbot_voor_jonge_tieners/tree/master/boeken)
  * [Arduino lessen](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners/tree/master/hoofdstukken)
  * [Arduino boeken](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners/tree/master/boeken)
+ * [Lesmateriaal LEGO](https://education.lego.com/nl-nl)
 
