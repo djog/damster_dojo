@@ -15,7 +15,7 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 ## Agenda
 
  * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op bushalte P van CS Groningen, zie [hier](https://github.com/richelbilderbeek/pi_day)
- * Zaterdag 14 maart: [DoeDigiDag](https://noordendigitaal.nl/activiteiten/kom-langs-bij-de-jonge-onderzoekers-en-leer-zelf-programmeren), 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen
+ * ~~Zaterdag 14 maart: [DoeDigiDag](https://noordendigitaal.nl/activiteiten/kom-langs-bij-de-jonge-onderzoekers-en-leer-zelf-programmeren), 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen~~
  * Maandag 13 apr: Geen les, wegens 2e paasdag
  * Maandag 27 apr: Geen les, wegens meivakantie
  * Maandag 04 mei: Geen les, wegens dodenherdenking
