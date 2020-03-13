@@ -2,8 +2,8 @@
 
 ![DJOG logo](plaatjes/djog.png)
 
-mBot|Arduino
-----|-------
+mBot                                                               |Arduino
+-------------------------------------------------------------------|-----------------------------------------------------------------------
 <img src="plaatjes/mbots.jpg" alt="mBots" width="300" height="300">|<img src="plaatjes/arduino.jpg" alt="Arduino" width="300" height="300">
 
 Dit is de website van de Damster Dojo. De Damster Dojo is een 
@@ -12,11 +12,25 @@ programmeer- en digitale electronicacursus in Appingedam, gegeven vanuit
 
 De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
+## Tijdelijk lessen via Discord
+
+In deze dagen gaan veel dingen even niet door. Met De Jonge Onderzoekers
+proberen we iets leuks te blijven doen :+1:
+
+Komende tijd ben je welkom om op Discord mee te doen met de lessen. 
+Maak Richel je Discord vriend: `richelbilderbeek#9002`,
+dan voegt hij je toe aan het De Jonge Onderzoekers kanaal.
+
+Het wordt even wennen, maar samen maken we er vast iets leuks en leerzaams van!
+Logisch, Richel is erbij :sunglasses: !
+
 ## Agenda
 
  * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op bushalte P van CS Groningen, zie [hier](https://github.com/richelbilderbeek/pi_day)
  * ~~Zaterdag 14 maart: [DoeDigiDag](https://noordendigitaal.nl/activiteiten/kom-langs-bij-de-jonge-onderzoekers-en-leer-zelf-programmeren), 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen~~ Gaat niet meer door, wegens een niet-computer virus
  * Maandag 16 maart: geen les, wegens een niet-computer virus
+ * Maandag 23 maart: geen les, wegens een niet-computer virus
+ * Maandag 30 maart: misschien weer les ...
  * Maandag 13 apr: Geen les, wegens 2e paasdag
  * Maandag 27 apr: Geen les, wegens meivakantie
  * Maandag 04 mei: Geen les, wegens dodenherdenking
