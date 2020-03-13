@@ -12,7 +12,7 @@ programmeer- en digitale electronicacursus in Appingedam, gegeven vanuit
 
 De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
-## Tijdelijk lessen via Discord
+## :warning: Tijdelijk lessen via Discord :warning: 
 
 In deze dagen gaan veel dingen even niet door. Met De Jonge Onderzoekers
 proberen we iets leuks te blijven doen :+1:
