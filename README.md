@@ -85,3 +85,7 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
  * [Arduino boeken](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners/tree/master/boeken)
  * [Lesmateriaal LEGO](https://education.lego.com/nl-nl)
 
+## Video's
+
+ * Onze eerste les op Discord: [YouTube](https://youtu.be/TQ8myDdix8U) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_20200315.ogv)
+
