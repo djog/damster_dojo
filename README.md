@@ -26,13 +26,11 @@ Logisch, Richel is erbij :sunglasses: !
 
 Deze video's laten we zien hoe wij werken:
 
- * Hoe gedragen wij ons op Discord: [YouTube](https://youtu.be/8unOiXlDYqM) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_gedrag.ogv)
+ * Hoe gedragen wij ons op Discord: [YouTube](https://youtu.be/Qij8TCIv20w) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_gedrag.ogv)
  * Onze eerste les op Discord: [YouTube](https://youtu.be/TQ8myDdix8U) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_20200315.ogv)
 
 ## Agenda
 
- * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op bushalte P van CS Groningen, zie [hier](https://github.com/richelbilderbeek/pi_day)
- * ~~Zaterdag 14 maart: [DoeDigiDag](https://noordendigitaal.nl/activiteiten/kom-langs-bij-de-jonge-onderzoekers-en-leer-zelf-programmeren), 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen~~ Gaat niet meer door, wegens een niet-computer virus
  * Maandag 16 maart: geen les op locatie, maar wel via Discord :godmode:
  * Maandag 23 maart: geen les op locatie, maar wel via Discord :godmode:
  * Maandag 30 maart: misschien weer les op locatie, dat is even afwachten ...
@@ -92,6 +90,6 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 
 ## Video's
 
- * Hoe gedragen wij ons op Discord: [YouTube](https://youtu.be/8unOiXlDYqM) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_gedrag.ogv)
+ * Hoe gedragen wij ons op Discord: [YouTube](https://youtu.be/Qij8TCIv20w) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_gedrag.ogv)
  * Onze eerste les op Discord: [YouTube](https://youtu.be/TQ8myDdix8U) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_20200315.ogv)
 
