@@ -31,8 +31,7 @@ Deze video's laten we zien hoe wij werken:
 
 ## Agenda
 
- * Maandag 16 maart: geen les op locatie, maar wel via Discord :godmode:
- * Maandag 23 maart: geen les op locatie, maar wel via Discord :godmode:
+ * Maandag 23 maart: les via Discord :godmode:
  * Maandag 30 maart: misschien weer les op locatie, dat is even afwachten ...
  * Maandag 13 apr: Geen les, wegens 2e paasdag
  * Maandag 27 apr: Geen les, wegens meivakantie
