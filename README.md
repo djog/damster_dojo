@@ -12,17 +12,11 @@ programmeer- en digitale electronicacursus in Appingedam, gegeven vanuit
 
 De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
-## :warning: Tijdelijk lessen via Discord :warning: 
+## Online lessen via Discord
 
-In deze dagen gaan veel dingen even niet door. Met De Jonge Onderzoekers
-proberen we iets leuks te blijven doen :+1:
-
-Komende tijd ben je welkom om op Discord mee te doen met de lessen. 
+Komende tijd ben je welkom om op Discord mee te doen met de online lessen. 
 Maak Richel je Discord vriend: `richelbilderbeek#9002`,
 dan voegt hij je toe aan het De Jonge Onderzoekers kanaal.
-
-Het wordt even wennen, maar samen maken we er vast iets leuks en leerzaams van!
-Logisch, Richel is erbij :sunglasses: !
 
 Deze video's laten we zien hoe wij werken:
 
@@ -31,17 +25,6 @@ Deze video's laten we zien hoe wij werken:
 
 ## Agenda
 
- * Maandag 30 maart: les via Discord
- * Maandag 6 april: les via Discord
- * Maandag 13 april: les via Discord
- * Maandag 20 april: les via Discord
- * Maandag 27 april: les via Discord
- * Maandag 4 mei: les via Discord
- * Maandag 11 mei: les via Discord
- * Maandag 18 mei: les via Discord
- * Maandag 25 mei: les via Discord
- * Maandag 1 juni: misschien weer les op locatie, dat is even afwachten ...
- * Maandag 13 apr: Geen les, wegens 2e paasdag
  * Maandag 27 apr: Geen les, wegens meivakantie
  * Maandag 04 mei: Geen les, wegens dodenherdenking
  * Maandag 01 jun: Geen les, wegens 2e Pinksterdag
