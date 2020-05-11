@@ -72,6 +72,8 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 
  * [DJOG GitLab](http://51.15.53.32)
  * [DJOG Discord](https://discord.gg/XYBXfE)
+ * [processing lessen](https://github.com/richelbilderbeek/processing_voor_jonge_tieners/tree/master/hoofdstukken)
+ * [processing boeken](https://github.com/richelbilderbeek/processing_voor_jonge_tieners/tree/master/boeken)
  * [mBot lessen](https://github.com/richelbilderbeek/mbot_voor_jonge_tieners/tree/master/hoofdstukken)
  * [mBot boeken](https://github.com/richelbilderbeek/mbot_voor_jonge_tieners/tree/master/boeken)
  * [Arduino lessen](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners/tree/master/hoofdstukken)
