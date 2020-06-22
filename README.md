@@ -25,11 +25,19 @@ Deze video's laten we zien hoe wij werken:
 
 ## Agenda
 
- * Maandag 27 apr: Geen les, wegens meivakantie
- * Maandag 04 mei: Geen les, wegens dodenherdenking
- * Maandag 01 jun: Geen les, wegens 2e Pinksterdag
  * Maandag 22 jun: Eindpresentaties + evaluaties
  * Maandag 29 jun: Laatste les voor de zomervakantie
+
+## Eindpresentatie
+
+Tijd                     |Kids   |Ouders 
+-------------------------|-------|-------
+Inloop                   | 18:00 | 18:15 
+Voorbereiding            | 18:15 | .
+Start presentaties       | 18:30 | 18:30
+Eind presentaties, pauze | 19:00 | 19:00
+Pauze voorbij, evaluatie | 19:15 | 19:15 
+Einde les                | 20:00 | 20:00 
 
 ### Over de cursus
 
