@@ -12,21 +12,9 @@ programmeer- en digitale electronicacursus in Appingedam, gegeven vanuit
 
 De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
-## Online lessen via Discord
-
-Komende tijd ben je welkom om op Discord mee te doen met de online lessen. 
-Maak Richel je Discord vriend: `richelbilderbeek#9002`,
-dan voegt hij je toe aan het De Jonge Onderzoekers kanaal.
-
-Deze video's laten we zien hoe wij werken:
-
- * Hoe gedragen wij ons op Discord: [YouTube](https://youtu.be/Qij8TCIv20w) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_gedrag.ogv)
- * Onze eerste les op Discord: [YouTube](https://youtu.be/TQ8myDdix8U) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_20200315.ogv)
-
 ## Agenda
 
- * Maandag 22 jun: Eindpresentaties + evaluaties
- * Maandag 29 jun: Laatste les voor de zomervakantie
+ * Maandag 7 september: eerste les
 
 ## Eindpresentatie
 
@@ -72,8 +60,8 @@ Zie [lesplanning](doc/lesplanning.md)
 
 ## Dingen
 
-Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
----|---
+Branch  |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+--------|---------------------------------------------------------------------------------------------------------------------------------------------
 `master`|[![Build Status](https://travis-ci.org/richelbilderbeek/damster_dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/damster_dojo)
 
 ## Links
@@ -87,9 +75,4 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
  * [Arduino lessen](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners/tree/master/hoofdstukken)
  * [Arduino boeken](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners/tree/master/boeken)
  * [Lesmateriaal LEGO](https://education.lego.com/nl-nl)
-
-## Video's
-
- * Hoe gedragen wij ons op Discord: [YouTube](https://youtu.be/Qij8TCIv20w) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_gedrag.ogv)
- * Onze eerste les op Discord: [YouTube](https://youtu.be/TQ8myDdix8U) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_20200315.ogv)
 
