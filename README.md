@@ -54,6 +54,31 @@ Hier een slordige kaart:
 
 Heb je nog een vraag? Kijk [bij de veelgestelde vragen](doc/veelgestelde_vragen.md)
 
+## Veiligheidsregels
+
+Dit de richtlijnen van DJO:
+
+ * Ouders brengen kinderen tot aan de voordeur en komen zelf niet het gebouw 
+   van Noorderpoort binnen
+ * Eerst handen wassen, dan pas aan het werk
+ * Handen wassen na toiletbezoek
+ * Kinderen vanaf 13 jaar houden 1,5 meter afstand tot begeleiders
+ * Kinderen tot 12 jaar hoeven niet 1,5 meter afstand te houden tot volwassenen,
+   maar als je het toch prettiger vindt dat ze dit wel doen,
+   kun je dat uiteraard met de kinderen bespreken en hier afspraken over maken
+ * Begeleiders houden 1,5 meter afstand tot elkaar
+ * Er is plek voor maximaal 12 kinderen per keer [1]
+ * Kinderen melden zich vooraf aan middels een aanmeldformulier 
+   op de website van De Jonge Onderzoekers
+ * Bij verkoudheidsklachten (ook lichte) blijven kinderen en medewerkers thuis
+ * Voor en tijdens de zomervakantie is de ventilatie in het gebouw 
+   gecheckt door een extern bureau en op orde bevonden. 
+   Ondanks dat vraagt Noorderpoort alle gebruikers van het gebouw 
+   om zoveel mogelijk te ventileren door het openen van ramen en deuren 
+   en tijdens pauzes de ruimte goed door te luchten (ca. 10/15 minuten).
+
+ * [1] dit maximale aantal is nog in overleg
+
 ## [Lesplanning](doc/lesplanning.md)
 
 Zie [lesplanning](doc/lesplanning.md)
