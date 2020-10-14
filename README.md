@@ -15,6 +15,9 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 ## Agenda
 
  * Maandag 7 september: eerste les
+ * Maandag 12 oktober: geen les, wegens herfstvakantie
+ * Maandag 19 oktober: geen les, wegens COVID-19
+ * Maandag 26 oktober: geen les, wegens COVID-19
 
 ## Eindpresentatie
 
