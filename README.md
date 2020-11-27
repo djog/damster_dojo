@@ -23,12 +23,37 @@ Activiteit               |Kids   |Ouders
 -------------------------|-------|-------
 Inloop                   | 18:00 | . 
 Voorbereiding            | 18:15 | .
-Livestream gaat aan      |     . | 18:30
+Livestream gaat aan      |     . | 18:16
 Start presentaties       | 18:30 | 18:30
 Eind presentaties        | 19:00 | 19:00
 Pauze                    | 19:00 | .
 Pauze voorbij, evaluatie | 19:15 | Optioneel 
 Einde les                | 20:00 | . 
+
+### Vragen over eindpresentatie
+
+#### Waar moeten de kids zijn?
+
+Die gaan als gewoonlijk naar de DJO Appingedam lokatie.
+
+#### Waar moeten de ouders zijn?
+
+Niet in het gebouw, want we mogen daar geen ouders ontvangen :-(.
+
+Tip: breng uw kind vroeg bij DJO (zegge, stipt 18:00), dan is er
+wellicht genoeg tijd om om 18:30 de livestream te kunnen volgen.
+
+#### Waarom een private YouTube livestream?
+
+Omdat dit het gemakkelijkst medium voor ouders is.
+
+Een eigenschap is dat er met een camera wordt gewerkt: we zien de
+kids vertellen (leuk!) en hun eventuele programmeerwerk via de camera (wellicht
+niet optimaal :grin:). 
+
+#### Wordt de presentatie opgenomen?
+
+Nee.
 
 ### Over de cursus
 
