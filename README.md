@@ -14,21 +14,21 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
 ## Agenda
 
- * Maandag 7 september: eerste les
- * Maandag 12 oktober: geen les, wegens herfstvakantie
- * Maandag 19 oktober: geen les, wegens COVID-19
- * Maandag 26 oktober: geen les, wegens COVID-19
+ * Maandag 7 december: oefenpresentaties
+ * Maandag 14 december: eindpresentaties, via YouTube private livestream
 
 ## Eindpresentatie
 
-Tijd                     |Kids   |Ouders 
+Activiteit               |Kids   |Ouders 
 -------------------------|-------|-------
-Inloop                   | 18:00 | 18:15 
+Inloop                   | 18:00 | . 
 Voorbereiding            | 18:15 | .
+Livestream gaat aan      |     . | 18:30
 Start presentaties       | 18:30 | 18:30
-Eind presentaties, pauze | 19:00 | 19:00
-Pauze voorbij, evaluatie | 19:15 | 19:15 
-Einde les                | 20:00 | 20:00 
+Eind presentaties        | 19:00 | 19:00
+Pauze                    | 19:00 | .
+Pauze voorbij, evaluatie | 19:15 | Optioneel 
+Einde les                | 20:00 | . 
 
 ### Over de cursus
 
