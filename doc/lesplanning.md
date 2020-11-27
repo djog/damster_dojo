@@ -1,5 +1,15 @@
 # Lesplanning
 
+## Najaar 2020
+
+Les|Datum |Omschrijving
+---|------|--------------------
+  ?|14 dec|Oefenpresentaties
+  ?|14 dec|Eindpresentaties
+ --|21 dec|Geen les, wegens kerstvakantie
+
+Het aantal lessen is wat moeilijker te tellen...
+
 ## Voorjaar 2020
 
 Les|Datum |Omschrijving
