@@ -16,6 +16,7 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
  * Maandag 7 december: oefenpresentaties
  * Maandag 14 december: eindpresentaties, via YouTube private livestream
+ * Maandag 21 december: geen les, wegens Kerstvakantie
 
 ## Eindpresentatie
 
