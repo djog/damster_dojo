@@ -96,7 +96,7 @@ Dit de richtlijnen van DJO:
    maar als je het toch prettiger vindt dat ze dit wel doen,
    kun je dat uiteraard met de kinderen bespreken en hier afspraken over maken
  * Begeleiders houden 1,5 meter afstand tot elkaar
- * Er is plek voor maximaal 12 kinderen per keer [1]
+ * Er is plek voor maximaal 12 kinderen per keer
  * Kinderen melden zich vooraf aan middels een aanmeldformulier 
    op de website van De Jonge Onderzoekers
  * Bij verkoudheidsklachten (ook lichte) blijven kinderen en medewerkers thuis
@@ -105,8 +105,6 @@ Dit de richtlijnen van DJO:
    Ondanks dat vraagt Noorderpoort alle gebruikers van het gebouw 
    om zoveel mogelijk te ventileren door het openen van ramen en deuren 
    en tijdens pauzes de ruimte goed door te luchten (ca. 10/15 minuten).
-
- * [1] dit maximale aantal is nog in overleg
 
 ## [Lesplanning](doc/lesplanning.md)
 
