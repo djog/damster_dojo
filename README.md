@@ -20,6 +20,8 @@ De jongere leerlingen beginnen met mBot, de oudere leerlingen met Arduino.
 
 ## Eindpresentatie
 
+ * URL: `https://youtu.be/???????????`
+
 Activiteit               |Kids   |Ouders 
 -------------------------|-------|-------
 Inloop                   | 18:00 | . 
