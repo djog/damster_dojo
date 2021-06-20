@@ -114,9 +114,9 @@ Zie [lesplanning](doc/lesplanning.md)
 
 ## Dingen
 
-Branch  |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+Branch  |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.com)
 --------|---------------------------------------------------------------------------------------------------------------------------------------------
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/damster_dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/damster_dojo)
+`master`|[![Build Status](https://travis-ci.com/richelbilderbeek/damster_dojo.svg?branch=master)](https://travis-ci.com/richelbilderbeek/damster_dojo)
 
 ## Links
 
